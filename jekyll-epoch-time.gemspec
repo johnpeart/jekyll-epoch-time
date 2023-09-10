@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "lib/jekyll-epoch-time/version"
-
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-epoch-time"
-  spec.version       = Jekyll::SeoTag::VERSION
+  spec.version       = Jekyll::jekyll-epoch-time::VERSION
   spec.authors       = ["John Peart"]
   spec.email         = ["code@johnpe.art"]
   spec.summary       = "A Jekyll plugin to make it possible to use Unix Epoch time in the permalink structures of your Jekyll site."
