@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-epoch-time"
-  spec.version       = Jekyll::jekyll-epoch-time::VERSION
+  spec.version       = 1.0
   spec.authors       = ["John Peart"]
   spec.email         = ["code@johnpe.art"]
   spec.summary       = "A Jekyll plugin to make it possible to use Unix Epoch time in the permalink structures of your Jekyll site."
